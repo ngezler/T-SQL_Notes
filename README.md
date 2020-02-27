@@ -1,1 +1,1 @@
-<h1>SQL Goodies </h1>
+<h1>SQL for practice purposes</h1>
